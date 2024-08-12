@@ -18,12 +18,6 @@ Credit Card Advisor Bot is a web application that helps users find the perfect c
 - **OpenAI API**: Provides the AI-driven responses to user queries.
 - **Next.js**: React framework for server-side rendering and API routes.
 
-## Usage 🚀
-
-1. **Start the Application**: Clone the repository and run `npm install` to install dependencies. Start the application with `npm run dev`.
-2. **Interact with the Bot**: Type your queries in the input field and click "Send" to interact with the bot. The bot will guide you through the process of finding the best credit card.
-3. **Receive Recommendations**: Based on your responses, the bot will suggest credit cards that match your needs.
-
 ## Project Structure 🗂️
 
 - **api/route.js**: Contains the backend API route that handles POST requests and interacts with the OpenAI API to generate responses.
